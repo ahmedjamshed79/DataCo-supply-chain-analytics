@@ -57,9 +57,7 @@ energy:
 
 1.  20% reduction in CO2.
 
-2.  20% increase in RE
-
-3.  S
+2.  20% increase in RES 
 
 4.  20% increase in energy efficiency (European Commission, 2010).
 
