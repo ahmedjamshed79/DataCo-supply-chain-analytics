@@ -1,47 +1,3 @@
-<img src="media/image1.jpeg" style="width:3.12583in;height:1.56291in"
-alt="A logo of a university Description automatically generated" />
-
-MSc Business Analytics  
-School of Business and Management  
-Royal Holloway, University of London
-
-Europe’s Adoption of Sustainable Energy
-
-CANDIDATE NUMBER:
-
-101061173
-
-22 March 2024
-
-<span id="_Toc518393710" class="anchor"></span>Declaration of
-Authenticity
-
-The linked submission has been prepared on the basis of my own work and
-that where other published and unpublished source materials have been
-used, these have been acknowledged.
-
-I give permission for the School of Business and Management to retain a
-copy of my submission to embed into future versions of the MN5813 Moodle
-page. I understand that my submission will be viewable by future module
-participants.
-
-**Signed:** \[101061173
-
-**Date:** \[11 January 2024\]
-
-\[The page is left intentionally blank.\]
-
-<span id="_Toc155866135" class="anchor"></span>Jupyter notebook
-
-<figure>
-<img src="media/image2.png" style="width:3.86111in;height:3.86111in" />
-<figcaption><p>1. Scan QR Code for Jupyter Notebook</p></figcaption>
-</figure>
-
-Or
-
-Click
-Here:<https://github.com/ahmedjamshed79/Europe-Adoption-of-Sustainable-Energy>
 
 <span id="_Toc155866136" class="anchor"></span>Table of content
 
@@ -258,14 +214,14 @@ the fact that some countries didn’t have renewable energy sources in the
 previous years.
 
 <figure>
-<img src="media/image3.png" style="width:6.43522in;height:3.0031in" />
+<img src="visuals/Heatmap-null-values.png" style="width:6.43522in;height:3.0031in" />
 <figcaption><blockquote>
 <p>Figure 2: Heatmap Visualization of Null Values</p>
 </blockquote></figcaption>
 </figure>
 
 <figure>
-<img src="media/image4.png" style="width:6.29583in;height:1.79028in"
+<img src="visuals/summart-table.png" style="width:6.29583in;height:1.79028in"
 alt="A table with numbers and text Description automatically generated" />
 <figcaption><p>Figure 3: Summary table with statistical
 measures</p></figcaption>
@@ -349,7 +305,7 @@ Given nuclear energy's high investment costs and risks (Samseth, 2013)
 this analysis henceforth concentrates on RES.
 
 <figure>
-<img src="media/image5.png" style="width:6.29583in;height:3.14792in" />
+<img src="visuals/combined-lowCarbon-trend.png" style="width:6.29583in;height:3.14792in" />
 <figcaption><p>Figure 4: Combined Time-Series Graph</p></figcaption>
 </figure>
 
@@ -363,7 +319,7 @@ emission trends. Consequently, a multivariate analysis encompassing both
 RES and CO2 emissions can elucidate leading nations in sustainability.
 
 <figure>
-<img src="media/image6.png" style="width:6.29583in;height:3.14792in"
+<img src="visuals/co2-emmission.png" style="width:6.29583in;height:3.14792in"
 alt="A graph showing the growth of the co2 emission Description automatically generated" />
 <figcaption><p>Figure 5: CO2 Emissions Trend</p></figcaption>
 </figure>
@@ -379,7 +335,7 @@ study. A critical omission here is the lack of population data, a
 potential key factor in higher CO2 emissions.
 
 <figure>
-<img src="media/image7.png" style="width:6.20342in;height:9.30514in"
+<img src="visuals/ranking and classification.png" style="width:6.20342in;height:9.30514in"
 alt="A graph of different colored bars Description automatically generated" />
 <figcaption><p>Figure 6: Ranking and Classification</p></figcaption>
 </figure>
@@ -448,20 +404,20 @@ energy target for 2030 – an impact assessment of the electricity sector.
 
 **Data:**
 
-<img src="media/image8.png" style="width:6.29583in;height:1.38194in"
+<img src="visuals/data-stats.png" style="width:6.29583in;height:1.38194in"
 alt="A table with numbers and symbols Description automatically generated" />
 
 **Statistical Measures**
 
-<img src="media/image9.png" style="width:6.19444in;height:3.41667in"
+<img src="visuals/data-stats-2.png" style="width:6.19444in;height:3.41667in"
 alt="A screenshot of a computer Description automatically generated" />
 
 **Top 10 Countries which consumes high energy per capita:**
 
-<img src="media/image10.png" style="width:6.29583in;height:4.19722in"
+<img src="visuals/top-10.png" style="width:6.29583in;height:4.19722in"
 alt="A graph of different colored bars Description automatically generated" />
 
 **Regression analysis**
 
-<img src="media/image11.png" style="width:6.29583in;height:4.19722in"
+<img src="visuals/regression.png.png" style="width:6.29583in;height:4.19722in"
 alt="A graph with a red line Description automatically generated" />
